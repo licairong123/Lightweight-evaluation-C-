@@ -34,3 +34,7 @@
 #build
 /build
 /bin
+/.vscode
+/CMakeLists
+/Debug
+/Release
