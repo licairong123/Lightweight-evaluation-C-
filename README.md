@@ -1,2 +1,2 @@
-# Lightweight-evaluation-C-
+# Lightweight-evaluation-C++
 Lightweight evaluation code for  c++ 
